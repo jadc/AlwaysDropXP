@@ -1,0 +1,3 @@
+# When an entity dies from natural causes, (i.e. not killed by a player) it will drop the amount of experience below.
+# Default: 5
+naturalExperience: 5
